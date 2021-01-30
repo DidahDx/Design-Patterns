@@ -1,4 +1,4 @@
-package ObserverPattern;
+package BehavioralPattern.ObserverPattern;
 
 // Represents each Observer that is monitoring changes in the subject
 

@@ -1,4 +1,4 @@
-package ObserverPattern;
+package BehavioralPattern.ObserverPattern;
 
 public class GrabStocks{
 
