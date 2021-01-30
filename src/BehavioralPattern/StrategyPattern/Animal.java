@@ -1,4 +1,4 @@
-package StrategyPattern;
+package BehavioralPattern.StrategyPattern;
 
 public class Animal {
 
