@@ -16,7 +16,6 @@ public class Phone {
         private String backCamera="13MP";
 
         public PhoneBuilder(){
-
         }
 
         public Phone buildPhone(){
