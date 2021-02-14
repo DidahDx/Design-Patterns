@@ -1,4 +1,4 @@
-package BehavioralPattern.StrategyPattern;
+package BehavioralPattern.StrategyPattern.example1;
 
 // The interface is implemented by many other
 // subclasses that allow for many types of flying

@@ -1,4 +1,4 @@
-package BehavioralPattern.StrategyPattern;
+package BehavioralPattern.StrategyPattern.example1;
 
 public class Dog extends Animal{
 
