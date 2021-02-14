@@ -1,4 +1,4 @@
-package BehavioralPattern.ObserverPattern;
+package BehavioralPattern.ObserverPattern.example1;
 
 public interface Subject {
     public void register(Observer o);
